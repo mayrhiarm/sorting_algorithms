@@ -19,7 +19,7 @@ void bubble_sorts(int *array, size_t size)
 			tmp = array[index];
 			array[index] = array[index + 1];
 			array[index + 1] = tmp;
-			print_array(array, size);
+			print_arrays(array, size);
 			}
 		}
 }

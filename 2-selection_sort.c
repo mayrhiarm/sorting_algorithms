@@ -2,13 +2,13 @@
 #include <stdio.h>
 
 /**
- *calloc - this is a calloc function
+ *_calloc - this is a calloc function
  *@nmemb: number of elemets
  *@size: bit size of each element
  *Return: pointer to memory assignement
  */
 
-void *calloc(unsigned int nmemb, unsigned int size)
+void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	unsigned int i = 0;
 	char *p;
@@ -28,7 +28,7 @@ void *calloc(unsigned int nmemb, unsigned int size)
  * @array: array to sort
  * @size: array size
  */
- 
+
 void counting_sorts(int *array, size_t size)
 {
 	int index, maximun = 0, *counter = '\0', *tmp = '\0';
@@ -61,3 +61,4 @@ void counting_sorts(int *array, size_t size)
 	free(tmp);
 	free(counter);
 }
+
