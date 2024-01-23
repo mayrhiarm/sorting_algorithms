@@ -71,7 +71,7 @@ void bitonicsorts(int arr[], int low, int nelemnt, int order, int size)
 		mid = nelemnt / 2;
 		bitonicsorts(arr, low, mid, 1, size);
 		bitonicsorts(arr, low + mid, mid, 0, size);
-		merge(arr, low, nelemnt, order);
+		merges(arr, low, nelemnt, order);
 		if (order <= 0)
 		{
 			printf("Result [%i/%i] (DOWN):\n", nelemnt, size);
@@ -99,3 +99,4 @@ void bitonic_sorts(int *array, size_t size)
 		return;
 	bitonicsorts(array, 0, size, order, size);
 }
+

@@ -2,13 +2,13 @@
 #include <stdio.h>
 
 /**
- *calloc - this is a calloc function
+ *_calloc - this is a calloc function
  *@nmemb: number of elemets
  *@size: bit size of each element
  *Return: pointer to memory assignement
  */
  
-void *calloc(unsigned int nmemb, unsigned int size)
+void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	unsigned int i = 0;
 	char *p;
