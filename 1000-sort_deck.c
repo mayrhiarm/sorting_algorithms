@@ -119,5 +119,5 @@ void insertion_sorts_deck(deck_node_t **deck)
  
 void sort_deck(deck_node_t **deck)
 {
-	insertion_sort_deck(deck);
+	insertion_sorts_deck(deck);
 }
