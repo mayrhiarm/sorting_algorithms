@@ -35,7 +35,7 @@ void merge(int arr[], int low, int nelemnt, int order)
 	{
 		mid = nelemnt / 2;
 		for (i = low; i < low + mid; i++)
-			swaps(arr, i, i + mid, order);
+			swap(arr, i, i + mid, order);
 		merge(arr, low, mid, order);
 		merge(arr, low + mid, mid, order);
 	}
