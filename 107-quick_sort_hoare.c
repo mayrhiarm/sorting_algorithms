@@ -1,13 +1,13 @@
 #include "sort.h"
 
 /**
-*swaps - the positions of two elements into an array
-*@array: array
-*@item1: array element
-*@item2: array element
+* swap - the positions of two elements into an array
+* @array: array
+* @item1: array element
+* @item2: array element
 */
 
-void swaps(int *array, ssize_t item1, ssize_t item2)
+void swap(int *array, ssize_t item1, ssize_t item2)
 {
 	int tmp;
 
@@ -17,15 +17,14 @@ void swaps(int *array, ssize_t item1, ssize_t item2)
 }
 
 /**
- *hoare_partitions - hoare partition sorting scheme implementation
- *@array: array
- *@first: first array element
- *@last: last array element
- *@size: size array
- *Return: return the position of the last element sorted
- */
- 
-int hoare_partitions(int *array, int first, int last, int size)
+ * hoare_partition - hoare partition sorting scheme implementation
+ * @array: array
+ * @first: first array element
+ * @last: last array element
+ * @size: size array
+ * Return: return the position of the last element sorted
+ */ 
+int hoare_partition(int *array, int first, int last, int size)
 {
 	int current = first - 1, finder = last + 1;
 	int pivot = array[last];
@@ -41,19 +40,18 @@ int hoare_partitions(int *array, int first, int last, int size)
 		} while (array[finder] > pivot);
 		if (current >= finder)
 			return (current);
-		swaps(array, current, finder);
+		swap(array, current, finder);
 		print_array(array, size);
 	}
 }
 
 /**
- *qs - qucksort algorithm implementation
- *@array: array
- *@first: first array element
- *@last: last array element
- *@size: array size
+ * qs - quicksort algorithm implementation
+ * @array: array
+ * @first: first array element
+ * @last: last array element
+ * @size: array size
  */
- 
 void qs(int *array, ssize_t first, ssize_t last, int size)
 {
 	ssize_t position = 0;
@@ -67,14 +65,14 @@ void qs(int *array, ssize_t first, ssize_t last, int size)
 }
 
 /**
- *quick_sort_hoare - prepare the terrain to quicksort algorithm
- *@array: array
- *@size: array size
+ * quick_sort_hoare - prepare the terrain to quicksort algorithm
+ * @array: array
+ * @size: array size
  */
- 
 void quick_sort_hoare(int *array, size_t size)
 {
 	if (!array || size < 2)
 		return;
 	qs(array, 0, size - 1, size);
 }
+

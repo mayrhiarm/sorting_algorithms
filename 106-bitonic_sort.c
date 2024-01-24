@@ -2,14 +2,13 @@
 #include <stdio.h>
 
 /**
- * swaps - change two values in ascending or descending order
+ * swap - change two values in ascending or descending order
  * @arr: array
  * @item1: item one
  * @item2: item two
  * @order: 1: ascending order, 0 descending order
  */
- 
-void swaps(int arr[], int item1, int item2, int order)
+void swap(int arr[], int item1, int item2, int order)
 {
 	int temp;
 
@@ -22,14 +21,13 @@ void swaps(int arr[], int item1, int item2, int order)
 }
 
 /**
- * merges - sort bitonic sequences recursively in both orders
+ * merge - sort bitonic sequences recursively in both orders
  * @arr: array
  * @low: first element
  * @nelemnt: elements number
  * @order: 1: ascending order, 0 descending order
  */
- 
-void merges(int arr[], int low, int nelemnt, int order)
+void merge(int arr[], int low, int nelemnt, int order)
 {
 	int mid, i;
 
@@ -38,21 +36,20 @@ void merges(int arr[], int low, int nelemnt, int order)
 		mid = nelemnt / 2;
 		for (i = low; i < low + mid; i++)
 			swaps(arr, i, i + mid, order);
-		merges(arr, low, mid, order);
-		merges(arr, low + mid, mid, order);
+		merge(arr, low, mid, order);
+		merge(arr, low + mid, mid, order);
 	}
 }
 
 /**
- * bitonicsorts - bitonic sort algorithm implementation
+ * bitonicsort - bitonic sort algorithm implementation
  * @arr: array
  * @low: first element
  * @nelemnt: number of elements
  * @order: 1: ascending order, 0 descending order
  * @size: array lenght
  */
- 
-void bitonicsorts(int arr[], int low, int nelemnt, int order, int size)
+void bitonicsort(int arr[], int low, int nelemnt, int order, int size)
 {
 	int mid;
 
@@ -69,9 +66,9 @@ void bitonicsorts(int arr[], int low, int nelemnt, int order, int size)
 			print_array(&arr[low], nelemnt);
 		}
 		mid = nelemnt / 2;
-		bitonicsorts(arr, low, mid, 1, size);
-		bitonicsorts(arr, low + mid, mid, 0, size);
-		merges(arr, low, nelemnt, order);
+		bitonicsort(arr, low, mid, 1, size);
+		bitonicsort(arr, low + mid, mid, 0, size);
+		merge(arr, low, nelemnt, order);
 		if (order <= 0)
 		{
 			printf("Result [%i/%i] (DOWN):\n", nelemnt, size);
@@ -86,17 +83,16 @@ void bitonicsorts(int arr[], int low, int nelemnt, int order, int size)
 }
 
 /**
- * bitonic_sort - prepare the terrain to bitonic sort algorithm
- * @array: array
- * @size: array lenght
+ *bitonic_sort - prepare the terrain to bitonic sort algorithm
+ *@array: array
+ *@size: array lenght
  */
- 
 void bitonic_sort(int *array, size_t size)
 {
 	int order = 1;
 
 	if (!array || size < 2)
 		return;
-	bitonicsorts(array, 0, size, order, size);
+	bitonicsort(array, 0, size, order, size);
 }
 
