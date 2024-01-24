@@ -57,24 +57,24 @@ void count_sorts(int *arr, size_t n, int exp, int *output)
 }
 
 /**
-* radix_sorts - The main function to that sorts arr[]
+* radix_sort - The main function to that sorts arr[]
 * of size n using Radix Sort
 * @array: array
 * @size: size of the array
 */
 
-void radix_sorts(int *array, size_t size)
+void radix_sort(int *array, size_t size)
 {
 	/* Find the maximum number to know number of digits */
 	int exp, maximum = 0;
 	int *output = '\0'; /* output array should be n(size) */
 
-	if (array == '\0' || size < 2)
+	if (array == NULL || size < 2)
 		return;
 
 	maximum = get_Max(array, size);
 	output = malloc(size * sizeof(int));
-	if (output == '\0')
+	if (output == NULL)
 		return;
 	/*
 	* Do counting sort for every digit. Note that instead
