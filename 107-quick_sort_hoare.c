@@ -58,7 +58,7 @@ void qs(int *array, ssize_t first, ssize_t last, int size)
 
 	if (first < last)
 	{
-		position = hoare_partitions(array, first, last, size);
+		position = hoare_partition(array, first, last, size);
 		qs(array, first, position - 1, size);
 		qs(array, position, last, size);
 	}
