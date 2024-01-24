@@ -66,11 +66,11 @@ void qs(int *array, ssize_t first, ssize_t last, int size)
 	}
 }
 /**
- *quick_sorts - It prepares the terrain to quicksort algorithm
+ *quick_sort - It prepares the terrain to quicksort algorithm
  *@array: array
  *@size: array size
  */
-void quick_sorts(int *array, size_t size)
+void quick_sort(int *array, size_t size)
 {
 	if (!array || size < 2)
 		return;

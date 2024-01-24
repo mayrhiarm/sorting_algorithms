@@ -22,7 +22,7 @@ void print_list(const listint_t *list);
 listint_t *swap_nodes(listint_t *node, listint_t **list);
 void insertion_sort_list(listint_t **list);
 void selection_sort(int *array, size_t size);
-void quick_sorts(int *array, size_t size);
+void quick_sort(int *array, size_t size);
 void shell_sorts(int *array, size_t size);
 void cocktail_sorts_list(listint_t **list);
 void counting_sorts(int *array, size_t size);
@@ -30,7 +30,7 @@ void merge_sorts(int *array, size_t size);
 void heap_sorts(int *array, size_t size);
 void radix_sorts(int *array, size_t size);
 void bitonic_sorts(int *array, size_t size);
-void quick_sorts_hoare(int *array, size_t size);
+void quick_sort_hoare(int *array, size_t size);
 
 #endif
 
