@@ -16,12 +16,12 @@ void swaps(int *array, int item1, int item2)
 	array[item2] = tmp;
 }
 /**
- * shell_sorts - function that sorts an array of integers in ascending
+ * shell_sort - function that sorts an array of integers in ascending
  * order using the Shell sort algorithm, using the Knuth sequence
  * @size: size of the array
  * @array: list with numbers
  */
-void shell_sorts(int *array, size_t size)
+void shell_sort(int *array, size_t size)
 {
 	size_t gap = 1, i, index = 0;
 
