@@ -1,4 +1,4 @@
-.#include "deck.h"
+#include "deck.h"
 #include <stdio.h>
 
 /**
