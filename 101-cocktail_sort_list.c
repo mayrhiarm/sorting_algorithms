@@ -45,7 +45,7 @@ void cocktail_sort_lists(listint_t **list)
 			{
 				node = swap_nodes(node->next, list);
 				swap_done = 1;
-				print_lists(*list);
+				print_list(*list);
 			}
 			node = node->next;
 		}
@@ -58,7 +58,7 @@ void cocktail_sort_lists(listint_t **list)
 			{
 				node = swap_nodes(node, list);
 				swap_done = 1;
-				print_lists(*list);
+				print_list(*list);
 			}
 			else
 				node = node->prev;
