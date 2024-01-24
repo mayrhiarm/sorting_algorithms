@@ -2,13 +2,13 @@
 #include <stdio.h>
 
 /**
- *_calloc - this is a calloc function
+ *__calloc - this is a _calloc function
  *@nmemb: number of elemets
  *@size: bit size of each element
  *Return: pointer to memory assignement
  */
  
-void *_calloc(unsigned int nmemb, unsigned int size)
+void *__calloc(unsigned int nmemb, unsigned int size)
 {
 	unsigned int i = 0;
 	char *p;
@@ -112,7 +112,7 @@ void merge_sorts(int *array, size_t size)
 
 	if (!array || size < 2)
 		return;
-	tmp = calloc(size, sizeof(int));
+	tmp = _calloc(size, sizeof(int));
 	mergesorts(array, tmp, 0, size - 1);
 	free(tmp);
 }
