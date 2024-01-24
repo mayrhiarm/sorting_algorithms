@@ -86,12 +86,12 @@ void bitonicsorts(int arr[], int low, int nelemnt, int order, int size)
 }
 
 /**
- * bitonic_sorts - prepare the terrain to bitonic sort algorithm
+ * bitonic_sort - prepare the terrain to bitonic sort algorithm
  * @array: array
  * @size: array lenght
  */
  
-void bitonic_sorts(int *array, size_t size)
+void bitonic_sort(int *array, size_t size)
 {
 	int order = 1;
 
