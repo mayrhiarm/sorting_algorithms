@@ -30,7 +30,7 @@ int _str_cmp(const char *str1, char *str2)
  * @node: represent the card
  * Return: return the card position
  */
- 
+
 int get_card_positions(deck_node_t *node)
 {
 	int value;
@@ -59,7 +59,7 @@ int get_card_positions(deck_node_t *node)
  *@deck: card deck
  *Return: return a pointer to a card which was enter it
  */
- 
+
 deck_node_t *swap_cards(deck_node_t *card, deck_node_t **deck)
 {
 	deck_node_t *back = card->prev, *current = card;
@@ -83,7 +83,7 @@ deck_node_t *swap_cards(deck_node_t *card, deck_node_t **deck)
  * of integers in ascending order using the Insertion sort algorithm
  * @deck: Dobule linked deck to sort
  */
- 
+
 void insertion_sorts_deck(deck_node_t **deck)
 {
 	int value_prev, value_current;
@@ -116,7 +116,7 @@ void insertion_sorts_deck(deck_node_t **deck)
  * insertion sort algorithm
  * @deck: deck
  */
- 
+
 void sort_deck(deck_node_t **deck)
 {
 	insertion_sorts_deck(deck);
