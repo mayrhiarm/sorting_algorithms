@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- *__calloc - this is a _calloc function
+ *_calloc - this is a _calloc function
  *@nmemb: number of elemets
  *@size: bit size of each element
  *Return: pointer to memory assignement
