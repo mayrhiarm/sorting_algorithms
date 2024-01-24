@@ -23,7 +23,7 @@ void swap(int *array, ssize_t item1, ssize_t item2)
  * @last: last array element
  * @size: size array
  * Return: return the position of the last element sorted
- */ 
+ */
 int hoare_partition(int *array, int first, int last, int size)
 {
 	int current = first - 1, finder = last + 1;
