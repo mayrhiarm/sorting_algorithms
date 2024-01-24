@@ -7,7 +7,7 @@
  *@size: bit size of each element
  *Return: pointer to memory assignement
  */
- 
+
 void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	unsigned int i = 0;
@@ -32,7 +32,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
  *@mid: array middle
  *@end: last element position
  **/
- 
+
 void merges(int *arr, int *tmp, int start, int mid, int end)
 {
 	/*  sizes and temp arrays */
@@ -82,7 +82,7 @@ void merges(int *arr, int *tmp, int start, int mid, int end)
  *@end: last element position
  *Return: void
  */
- 
+
 void mergesorts(int *array, int *tmp, int start, int end)
 {
 	int mid;
@@ -105,7 +105,7 @@ void mergesorts(int *array, int *tmp, int start, int end)
  *@array: array of integers
  *Return: void
  */
- 
+
 void merge_sort(int *array, size_t size)
 {
 	int *tmp;

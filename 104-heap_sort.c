@@ -6,7 +6,7 @@
  * @a: integer a
  * @b: integer b
  **/
- 
+
 void swaps(int *a, int *b)
 {
 	int t = *a;
@@ -24,7 +24,7 @@ void swaps(int *a, int *b)
  * @idx: index
  * @n: size of the array to run
  */
- 
+
 void max_Heapify(int *array, size_t size, int idx, size_t n)
 {
 	int largest = idx;		 /* Initialize largest as root*/
@@ -56,7 +56,7 @@ void max_Heapify(int *array, size_t size, int idx, size_t n)
  * @array: array to sort
  * @size: size of the array
  **/
- 
+
 void heap_sort(int *array, size_t size)
 {
 	int i;

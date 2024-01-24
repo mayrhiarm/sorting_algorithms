@@ -28,7 +28,7 @@ void *_calloc(unsigned int nmemb, unsigned int size)
  * @array: array to sort
  * @size: array size
  */
- 
+
 void counting_sort(int *array, size_t size)
 {
 	int index, maximun = 0, *counter = '\0', *tmp = '\0';
