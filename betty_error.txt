@@ -1,0 +1,1083 @@
+
+========== 0-bubble_sort.c ==========
+bubble_sort
+
+========== 0-main.c ==========
+0-main.c:12: WARNING: please, no spaces at the start of a line
+0-main.c:13: WARNING: please, no spaces at the start of a line
+0-main.c:15: WARNING: please, no spaces at the start of a line
+0-main.c:16: WARNING: please, no spaces at the start of a line
+0-main.c:17: WARNING: please, no spaces at the start of a line
+0-main.c:18: WARNING: please, no spaces at the start of a line
+0-main.c:19: WARNING: please, no spaces at the start of a line
+0-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 22 lines checked
+main
+
+========== 1000-main.c ==========
+1000-main.c:7: WARNING: please, no spaces at the start of a line
+1000-main.c:8: WARNING: please, no spaces at the start of a line
+1000-main.c:10: WARNING: please, no spaces at the start of a line
+1000-main.c:11: WARNING: please, no spaces at the start of a line
+1000-main.c:12: WARNING: please, no spaces at the start of a line
+1000-main.c:13: ERROR: code indent should use tabs where possible
+1000-main.c:13: WARNING: please, no spaces at the start of a line
+1000-main.c:13: WARNING: suspect code indent for conditional statements (8, 12)
+1000-main.c:14: ERROR: code indent should use tabs where possible
+1000-main.c:14: WARNING: please, no spaces at the start of a line
+1000-main.c:15: ERROR: code indent should use tabs where possible
+1000-main.c:15: WARNING: please, no spaces at the start of a line
+1000-main.c:16: ERROR: code indent should use tabs where possible
+1000-main.c:16: WARNING: please, no spaces at the start of a line
+1000-main.c:16: WARNING: suspect code indent for conditional statements (8, 12)
+1000-main.c:17: ERROR: code indent should use tabs where possible
+1000-main.c:17: WARNING: please, no spaces at the start of a line
+1000-main.c:18: ERROR: code indent should use tabs where possible
+1000-main.c:18: WARNING: please, no spaces at the start of a line
+1000-main.c:19: ERROR: code indent should use tabs where possible
+1000-main.c:19: WARNING: please, no spaces at the start of a line
+1000-main.c:20: WARNING: please, no spaces at the start of a line
+1000-main.c:25: WARNING: please, no spaces at the start of a line
+1000-main.c:26: WARNING: please, no spaces at the start of a line
+1000-main.c:27: WARNING: please, no spaces at the start of a line
+1000-main.c:29: WARNING: please, no spaces at the start of a line
+1000-main.c:30: WARNING: please, no spaces at the start of a line
+1000-main.c:31: WARNING: please, no spaces at the start of a line
+1000-main.c:32: WARNING: please, no spaces at the start of a line
+1000-main.c:33: ERROR: code indent should use tabs where possible
+1000-main.c:33: WARNING: please, no spaces at the start of a line
+1000-main.c:34: ERROR: code indent should use tabs where possible
+1000-main.c:34: WARNING: please, no spaces at the start of a line
+1000-main.c:34: WARNING: suspect code indent for conditional statements (8, 12)
+1000-main.c:35: ERROR: code indent should use tabs where possible
+1000-main.c:35: WARNING: please, no spaces at the start of a line
+1000-main.c:36: ERROR: code indent should use tabs where possible
+1000-main.c:36: WARNING: please, no spaces at the start of a line
+1000-main.c:37: ERROR: code indent should use tabs where possible
+1000-main.c:37: WARNING: please, no spaces at the start of a line
+1000-main.c:38: ERROR: code indent should use tabs where possible
+1000-main.c:38: WARNING: please, no spaces at the start of a line
+1000-main.c:39: ERROR: code indent should use tabs where possible
+1000-main.c:39: WARNING: please, no spaces at the start of a line
+1000-main.c:39: WARNING: suspect code indent for conditional statements (8, 12)
+1000-main.c:40: ERROR: code indent should use tabs where possible
+1000-main.c:40: WARNING: please, no spaces at the start of a line
+1000-main.c:41: ERROR: code indent should use tabs where possible
+1000-main.c:41: WARNING: please, no spaces at the start of a line
+1000-main.c:42: WARNING: please, no spaces at the start of a line
+1000-main.c:43: WARNING: please, no spaces at the start of a line
+1000-main.c:48: WARNING: please, no spaces at the start of a line
+1000-main.c:49: WARNING: line over 80 characters (801)
+1000-main.c:49: ERROR: code indent should use tabs where possible
+1000-main.c:49: WARNING: please, no spaces at the start of a line
+1000-main.c:50: WARNING: please, no spaces at the start of a line
+1000-main.c:51: WARNING: please, no spaces at the start of a line
+1000-main.c:53: WARNING: please, no spaces at the start of a line
+1000-main.c:54: WARNING: please, no spaces at the start of a line
+1000-main.c:55: WARNING: please, no spaces at the start of a line
+1000-main.c:56: WARNING: please, no spaces at the start of a line
+1000-main.c:57: WARNING: please, no spaces at the start of a line
+1000-main.c:58: WARNING: please, no spaces at the start of a line
+1000-main.c:59: WARNING: please, no spaces at the start of a line
+total: 17 errors, 47 warnings, 61 lines checked
+1000-main.c:5: warning: no description found for function print_deck
+1000-main.c:23: warning: no description found for function init_deck
+1000-main.c:46: warning: no description found for function main
+
+========== 1000-sort_deck.c ==========
+1000-sort_deck.c:1: ERROR: DOS line endings
+1000-sort_deck.c:2: ERROR: DOS line endings
+1000-sort_deck.c:3: ERROR: DOS line endings
+1000-sort_deck.c:4: ERROR: trailing whitespace
+1000-sort_deck.c:5: ERROR: trailing whitespace
+1000-sort_deck.c:6: ERROR: trailing whitespace
+1000-sort_deck.c:7: ERROR: trailing whitespace
+1000-sort_deck.c:8: ERROR: trailing whitespace
+1000-sort_deck.c:9: ERROR: DOS line endings
+1000-sort_deck.c:10: ERROR: DOS line endings
+1000-sort_deck.c:11: ERROR: DOS line endings
+1000-sort_deck.c:12: ERROR: DOS line endings
+1000-sort_deck.c:13: ERROR: DOS line endings
+1000-sort_deck.c:14: ERROR: DOS line endings
+1000-sort_deck.c:15: ERROR: DOS line endings
+1000-sort_deck.c:16: ERROR: DOS line endings
+1000-sort_deck.c:17: ERROR: DOS line endings
+1000-sort_deck.c:18: ERROR: DOS line endings
+1000-sort_deck.c:19: ERROR: DOS line endings
+1000-sort_deck.c:20: ERROR: DOS line endings
+1000-sort_deck.c:21: ERROR: DOS line endings
+1000-sort_deck.c:22: ERROR: DOS line endings
+1000-sort_deck.c:23: ERROR: DOS line endings
+1000-sort_deck.c:24: ERROR: DOS line endings
+1000-sort_deck.c:25: ERROR: DOS line endings
+1000-sort_deck.c:26: ERROR: DOS line endings
+1000-sort_deck.c:27: ERROR: DOS line endings
+1000-sort_deck.c:28: ERROR: trailing whitespace
+1000-sort_deck.c:29: ERROR: trailing whitespace
+1000-sort_deck.c:30: ERROR: trailing whitespace
+1000-sort_deck.c:31: ERROR: trailing whitespace
+1000-sort_deck.c:32: ERROR: DOS line endings
+1000-sort_deck.c:33: ERROR: DOS line endings
+1000-sort_deck.c:33: WARNING: please, no spaces at the start of a line
+1000-sort_deck.c:34: ERROR: DOS line endings
+1000-sort_deck.c:35: ERROR: DOS line endings
+1000-sort_deck.c:36: ERROR: DOS line endings
+1000-sort_deck.c:37: ERROR: DOS line endings
+1000-sort_deck.c:38: ERROR: DOS line endings
+1000-sort_deck.c:39: ERROR: DOS line endings
+1000-sort_deck.c:40: ERROR: DOS line endings
+1000-sort_deck.c:41: ERROR: DOS line endings
+1000-sort_deck.c:42: ERROR: DOS line endings
+1000-sort_deck.c:43: ERROR: DOS line endings
+1000-sort_deck.c:44: ERROR: DOS line endings
+1000-sort_deck.c:45: ERROR: DOS line endings
+1000-sort_deck.c:46: ERROR: DOS line endings
+1000-sort_deck.c:47: ERROR: DOS line endings
+1000-sort_deck.c:48: ERROR: DOS line endings
+1000-sort_deck.c:49: ERROR: DOS line endings
+1000-sort_deck.c:50: ERROR: DOS line endings
+1000-sort_deck.c:51: ERROR: DOS line endings
+1000-sort_deck.c:52: ERROR: DOS line endings
+1000-sort_deck.c:53: ERROR: DOS line endings
+1000-sort_deck.c:54: ERROR: DOS line endings
+1000-sort_deck.c:55: ERROR: DOS line endings
+1000-sort_deck.c:56: ERROR: trailing whitespace
+1000-sort_deck.c:57: ERROR: trailing whitespace
+1000-sort_deck.c:58: ERROR: trailing whitespace
+1000-sort_deck.c:59: ERROR: trailing whitespace
+1000-sort_deck.c:60: ERROR: trailing whitespace
+1000-sort_deck.c:61: ERROR: DOS line endings
+1000-sort_deck.c:62: ERROR: DOS line endings
+1000-sort_deck.c:62: WARNING: please, no spaces at the start of a line
+1000-sort_deck.c:63: ERROR: DOS line endings
+1000-sort_deck.c:64: ERROR: DOS line endings
+1000-sort_deck.c:65: ERROR: DOS line endings
+1000-sort_deck.c:66: ERROR: DOS line endings
+1000-sort_deck.c:67: ERROR: DOS line endings
+1000-sort_deck.c:68: ERROR: DOS line endings
+1000-sort_deck.c:69: ERROR: DOS line endings
+1000-sort_deck.c:70: ERROR: DOS line endings
+1000-sort_deck.c:71: ERROR: DOS line endings
+1000-sort_deck.c:72: ERROR: DOS line endings
+1000-sort_deck.c:73: ERROR: DOS line endings
+1000-sort_deck.c:74: ERROR: DOS line endings
+1000-sort_deck.c:75: ERROR: DOS line endings
+1000-sort_deck.c:76: ERROR: DOS line endings
+1000-sort_deck.c:77: ERROR: DOS line endings
+1000-sort_deck.c:78: ERROR: DOS line endings
+1000-sort_deck.c:79: ERROR: DOS line endings
+1000-sort_deck.c:80: ERROR: DOS line endings
+1000-sort_deck.c:81: ERROR: trailing whitespace
+1000-sort_deck.c:82: ERROR: trailing whitespace
+1000-sort_deck.c:83: ERROR: trailing whitespace
+1000-sort_deck.c:84: ERROR: trailing whitespace
+1000-sort_deck.c:85: ERROR: DOS line endings
+1000-sort_deck.c:86: ERROR: DOS line endings
+1000-sort_deck.c:86: WARNING: please, no spaces at the start of a line
+1000-sort_deck.c:87: ERROR: DOS line endings
+1000-sort_deck.c:88: ERROR: DOS line endings
+1000-sort_deck.c:89: ERROR: DOS line endings
+1000-sort_deck.c:90: ERROR: DOS line endings
+1000-sort_deck.c:91: ERROR: DOS line endings
+1000-sort_deck.c:92: ERROR: DOS line endings
+1000-sort_deck.c:93: ERROR: DOS line endings
+1000-sort_deck.c:94: ERROR: DOS line endings
+1000-sort_deck.c:95: ERROR: DOS line endings
+1000-sort_deck.c:96: ERROR: DOS line endings
+1000-sort_deck.c:97: ERROR: DOS line endings
+1000-sort_deck.c:98: ERROR: DOS line endings
+1000-sort_deck.c:99: ERROR: DOS line endings
+1000-sort_deck.c:100: ERROR: DOS line endings
+1000-sort_deck.c:101: ERROR: DOS line endings
+1000-sort_deck.c:102: ERROR: DOS line endings
+1000-sort_deck.c:103: ERROR: DOS line endings
+1000-sort_deck.c:104: ERROR: DOS line endings
+1000-sort_deck.c:105: ERROR: DOS line endings
+1000-sort_deck.c:106: ERROR: DOS line endings
+1000-sort_deck.c:107: ERROR: DOS line endings
+1000-sort_deck.c:108: ERROR: DOS line endings
+1000-sort_deck.c:109: ERROR: DOS line endings
+1000-sort_deck.c:110: ERROR: DOS line endings
+1000-sort_deck.c:111: ERROR: DOS line endings
+1000-sort_deck.c:112: ERROR: DOS line endings
+1000-sort_deck.c:113: ERROR: DOS line endings
+1000-sort_deck.c:114: ERROR: trailing whitespace
+1000-sort_deck.c:115: ERROR: trailing whitespace
+1000-sort_deck.c:116: ERROR: trailing whitespace
+1000-sort_deck.c:117: ERROR: trailing whitespace
+1000-sort_deck.c:118: ERROR: DOS line endings
+1000-sort_deck.c:119: ERROR: DOS line endings
+1000-sort_deck.c:119: WARNING: please, no spaces at the start of a line
+1000-sort_deck.c:120: ERROR: DOS line endings
+1000-sort_deck.c:121: ERROR: DOS line endings
+1000-sort_deck.c:122: ERROR: DOS line endings
+1000-sort_deck.c:123: ERROR: DOS line endings
+total: 123 errors, 4 warnings, 123 lines checked
+_str_cmp
+get_card_positions
+swap_cards
+insertion_sorts_deck
+sort_deck
+
+========== 100-main.c ==========
+100-main.c:12: WARNING: please, no spaces at the start of a line
+100-main.c:13: WARNING: please, no spaces at the start of a line
+100-main.c:15: WARNING: please, no spaces at the start of a line
+100-main.c:16: WARNING: please, no spaces at the start of a line
+100-main.c:17: WARNING: please, no spaces at the start of a line
+100-main.c:18: WARNING: please, no spaces at the start of a line
+100-main.c:19: WARNING: please, no spaces at the start of a line
+100-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 22 lines checked
+main
+
+========== 100-shell_sort.c ==========
+swaps
+shell_sort
+
+========== 101-cocktail_sort_list.c ==========
+swap_node
+cocktail_sort_list
+
+========== 101-main.c ==========
+101-main.c:15: WARNING: please, no spaces at the start of a line
+101-main.c:16: WARNING: please, no spaces at the start of a line
+101-main.c:17: WARNING: please, no spaces at the start of a line
+101-main.c:19: WARNING: please, no spaces at the start of a line
+101-main.c:20: WARNING: please, no spaces at the start of a line
+101-main.c:21: WARNING: please, no spaces at the start of a line
+101-main.c:22: ERROR: code indent should use tabs where possible
+101-main.c:22: WARNING: please, no spaces at the start of a line
+101-main.c:23: ERROR: code indent should use tabs where possible
+101-main.c:23: WARNING: please, no spaces at the start of a line
+101-main.c:23: WARNING: suspect code indent for conditional statements (8, 12)
+101-main.c:24: ERROR: code indent should use tabs where possible
+101-main.c:24: WARNING: please, no spaces at the start of a line
+101-main.c:25: ERROR: code indent should use tabs where possible
+101-main.c:25: WARNING: please, no spaces at the start of a line
+101-main.c:26: ERROR: code indent should use tabs where possible
+101-main.c:26: WARNING: please, no spaces at the start of a line
+101-main.c:27: ERROR: code indent should use tabs where possible
+101-main.c:27: WARNING: please, no spaces at the start of a line
+101-main.c:28: ERROR: code indent should use tabs where possible
+101-main.c:28: WARNING: please, no spaces at the start of a line
+101-main.c:29: ERROR: code indent should use tabs where possible
+101-main.c:29: WARNING: please, no spaces at the start of a line
+101-main.c:30: ERROR: code indent should use tabs where possible
+101-main.c:30: WARNING: please, no spaces at the start of a line
+101-main.c:30: WARNING: suspect code indent for conditional statements (8, 12)
+101-main.c:31: ERROR: code indent should use tabs where possible
+101-main.c:31: WARNING: please, no spaces at the start of a line
+101-main.c:32: WARNING: please, no spaces at the start of a line
+101-main.c:33: WARNING: please, no spaces at the start of a line
+101-main.c:43: WARNING: please, no spaces at the start of a line
+101-main.c:44: WARNING: please, no spaces at the start of a line
+101-main.c:45: WARNING: please, no spaces at the start of a line
+101-main.c:47: WARNING: please, no spaces at the start of a line
+101-main.c:48: WARNING: please, no spaces at the start of a line
+101-main.c:49: ERROR: code indent should use tabs where possible
+101-main.c:49: WARNING: please, no spaces at the start of a line
+101-main.c:50: WARNING: please, no spaces at the start of a line
+101-main.c:51: WARNING: please, no spaces at the start of a line
+101-main.c:52: WARNING: please, no spaces at the start of a line
+101-main.c:53: WARNING: please, no spaces at the start of a line
+101-main.c:54: WARNING: please, no spaces at the start of a line
+101-main.c:55: WARNING: please, no spaces at the start of a line
+total: 11 errors, 32 warnings, 56 lines checked
+create_listint
+main
+
+========== 102-counting_sort.c ==========
+102-counting_sort.c:1: ERROR: DOS line endings
+102-counting_sort.c:2: ERROR: DOS line endings
+102-counting_sort.c:3: ERROR: DOS line endings
+102-counting_sort.c:4: ERROR: trailing whitespace
+102-counting_sort.c:5: ERROR: trailing whitespace
+102-counting_sort.c:6: ERROR: trailing whitespace
+102-counting_sort.c:7: ERROR: trailing whitespace
+102-counting_sort.c:8: ERROR: trailing whitespace
+102-counting_sort.c:9: ERROR: DOS line endings
+102-counting_sort.c:10: ERROR: DOS line endings
+102-counting_sort.c:11: ERROR: DOS line endings
+102-counting_sort.c:12: ERROR: DOS line endings
+102-counting_sort.c:13: ERROR: DOS line endings
+102-counting_sort.c:14: ERROR: DOS line endings
+102-counting_sort.c:15: ERROR: DOS line endings
+102-counting_sort.c:16: ERROR: DOS line endings
+102-counting_sort.c:17: ERROR: DOS line endings
+102-counting_sort.c:18: ERROR: DOS line endings
+102-counting_sort.c:19: ERROR: DOS line endings
+102-counting_sort.c:20: ERROR: DOS line endings
+102-counting_sort.c:21: ERROR: DOS line endings
+102-counting_sort.c:22: ERROR: DOS line endings
+102-counting_sort.c:23: ERROR: DOS line endings
+102-counting_sort.c:24: ERROR: DOS line endings
+102-counting_sort.c:25: ERROR: DOS line endings
+102-counting_sort.c:26: ERROR: trailing whitespace
+102-counting_sort.c:27: ERROR: trailing whitespace
+102-counting_sort.c:28: ERROR: trailing whitespace
+102-counting_sort.c:29: ERROR: trailing whitespace
+102-counting_sort.c:30: ERROR: DOS line endings
+102-counting_sort.c:31: ERROR: DOS line endings
+102-counting_sort.c:31: WARNING: please, no spaces at the start of a line
+102-counting_sort.c:32: ERROR: DOS line endings
+102-counting_sort.c:33: ERROR: DOS line endings
+102-counting_sort.c:34: ERROR: DOS line endings
+102-counting_sort.c:35: ERROR: DOS line endings
+102-counting_sort.c:36: ERROR: DOS line endings
+102-counting_sort.c:37: ERROR: DOS line endings
+102-counting_sort.c:38: ERROR: DOS line endings
+102-counting_sort.c:39: ERROR: DOS line endings
+102-counting_sort.c:40: ERROR: DOS line endings
+102-counting_sort.c:41: ERROR: DOS line endings
+102-counting_sort.c:42: ERROR: DOS line endings
+102-counting_sort.c:43: ERROR: DOS line endings
+102-counting_sort.c:44: ERROR: DOS line endings
+102-counting_sort.c:45: ERROR: DOS line endings
+102-counting_sort.c:46: ERROR: DOS line endings
+102-counting_sort.c:47: ERROR: DOS line endings
+102-counting_sort.c:48: ERROR: DOS line endings
+102-counting_sort.c:49: ERROR: DOS line endings
+102-counting_sort.c:50: ERROR: DOS line endings
+102-counting_sort.c:51: ERROR: DOS line endings
+102-counting_sort.c:52: ERROR: DOS line endings
+102-counting_sort.c:53: ERROR: DOS line endings
+102-counting_sort.c:54: ERROR: DOS line endings
+102-counting_sort.c:55: ERROR: DOS line endings
+102-counting_sort.c:56: ERROR: DOS line endings
+102-counting_sort.c:57: ERROR: DOS line endings
+102-counting_sort.c:58: ERROR: DOS line endings
+102-counting_sort.c:59: ERROR: DOS line endings
+102-counting_sort.c:60: ERROR: DOS line endings
+102-counting_sort.c:61: ERROR: DOS line endings
+102-counting_sort.c:62: ERROR: DOS line endings
+102-counting_sort.c:63: ERROR: DOS line endings
+102-counting_sort.c:64: ERROR: DOS line endings
+total: 64 errors, 1 warnings, 64 lines checked
+_calloc
+counting_sort
+
+========== 102-main.c ==========
+102-main.c:12: WARNING: please, no spaces at the start of a line
+102-main.c:13: WARNING: please, no spaces at the start of a line
+102-main.c:15: WARNING: please, no spaces at the start of a line
+102-main.c:16: WARNING: please, no spaces at the start of a line
+102-main.c:17: WARNING: please, no spaces at the start of a line
+102-main.c:18: WARNING: please, no spaces at the start of a line
+102-main.c:19: WARNING: please, no spaces at the start of a line
+102-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 22 lines checked
+main
+
+========== 103-main.c ==========
+103-main.c:12: WARNING: please, no spaces at the start of a line
+103-main.c:13: WARNING: please, no spaces at the start of a line
+103-main.c:15: WARNING: please, no spaces at the start of a line
+103-main.c:16: WARNING: please, no spaces at the start of a line
+103-main.c:17: WARNING: please, no spaces at the start of a line
+103-main.c:18: WARNING: please, no spaces at the start of a line
+103-main.c:19: WARNING: please, no spaces at the start of a line
+103-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 22 lines checked
+main
+
+========== 103-merge_sort.c ==========
+103-merge_sort.c:1: ERROR: DOS line endings
+103-merge_sort.c:2: ERROR: DOS line endings
+103-merge_sort.c:3: ERROR: DOS line endings
+103-merge_sort.c:4: ERROR: trailing whitespace
+103-merge_sort.c:5: ERROR: trailing whitespace
+103-merge_sort.c:6: ERROR: trailing whitespace
+103-merge_sort.c:7: ERROR: trailing whitespace
+103-merge_sort.c:8: ERROR: trailing whitespace
+103-merge_sort.c:9: ERROR: DOS line endings
+103-merge_sort.c:10: ERROR: DOS line endings
+103-merge_sort.c:10: WARNING: please, no spaces at the start of a line
+103-merge_sort.c:11: ERROR: DOS line endings
+103-merge_sort.c:12: ERROR: DOS line endings
+103-merge_sort.c:13: ERROR: DOS line endings
+103-merge_sort.c:14: ERROR: DOS line endings
+103-merge_sort.c:15: ERROR: DOS line endings
+103-merge_sort.c:16: ERROR: DOS line endings
+103-merge_sort.c:17: ERROR: DOS line endings
+103-merge_sort.c:18: ERROR: DOS line endings
+103-merge_sort.c:19: ERROR: DOS line endings
+103-merge_sort.c:20: ERROR: DOS line endings
+103-merge_sort.c:21: ERROR: DOS line endings
+103-merge_sort.c:22: ERROR: DOS line endings
+103-merge_sort.c:23: ERROR: DOS line endings
+103-merge_sort.c:24: ERROR: DOS line endings
+103-merge_sort.c:25: ERROR: DOS line endings
+103-merge_sort.c:26: ERROR: trailing whitespace
+103-merge_sort.c:27: ERROR: trailing whitespace
+103-merge_sort.c:28: ERROR: trailing whitespace
+103-merge_sort.c:29: ERROR: trailing whitespace
+103-merge_sort.c:30: ERROR: trailing whitespace
+103-merge_sort.c:31: ERROR: trailing whitespace
+103-merge_sort.c:32: ERROR: trailing whitespace
+103-merge_sort.c:33: ERROR: trailing whitespace
+103-merge_sort.c:34: ERROR: DOS line endings
+103-merge_sort.c:35: ERROR: DOS line endings
+103-merge_sort.c:35: WARNING: please, no spaces at the start of a line
+103-merge_sort.c:36: ERROR: DOS line endings
+103-merge_sort.c:37: ERROR: DOS line endings
+103-merge_sort.c:38: ERROR: DOS line endings
+103-merge_sort.c:39: ERROR: DOS line endings
+103-merge_sort.c:40: ERROR: DOS line endings
+103-merge_sort.c:41: ERROR: DOS line endings
+103-merge_sort.c:42: ERROR: DOS line endings
+103-merge_sort.c:43: ERROR: DOS line endings
+103-merge_sort.c:44: ERROR: DOS line endings
+103-merge_sort.c:45: ERROR: DOS line endings
+103-merge_sort.c:46: ERROR: DOS line endings
+103-merge_sort.c:47: ERROR: DOS line endings
+103-merge_sort.c:48: ERROR: DOS line endings
+103-merge_sort.c:49: ERROR: DOS line endings
+103-merge_sort.c:50: ERROR: DOS line endings
+103-merge_sort.c:51: ERROR: DOS line endings
+103-merge_sort.c:52: ERROR: DOS line endings
+103-merge_sort.c:53: ERROR: DOS line endings
+103-merge_sort.c:54: ERROR: DOS line endings
+103-merge_sort.c:55: ERROR: DOS line endings
+103-merge_sort.c:56: ERROR: DOS line endings
+103-merge_sort.c:57: ERROR: DOS line endings
+103-merge_sort.c:58: ERROR: DOS line endings
+103-merge_sort.c:59: ERROR: DOS line endings
+103-merge_sort.c:60: ERROR: DOS line endings
+103-merge_sort.c:61: ERROR: DOS line endings
+103-merge_sort.c:62: ERROR: DOS line endings
+103-merge_sort.c:63: ERROR: DOS line endings
+103-merge_sort.c:64: ERROR: DOS line endings
+103-merge_sort.c:65: ERROR: DOS line endings
+103-merge_sort.c:66: ERROR: DOS line endings
+103-merge_sort.c:67: ERROR: DOS line endings
+103-merge_sort.c:68: ERROR: DOS line endings
+103-merge_sort.c:69: ERROR: DOS line endings
+103-merge_sort.c:70: ERROR: DOS line endings
+103-merge_sort.c:71: ERROR: DOS line endings
+103-merge_sort.c:72: ERROR: DOS line endings
+103-merge_sort.c:73: ERROR: DOS line endings
+103-merge_sort.c:74: ERROR: DOS line endings
+103-merge_sort.c:75: ERROR: trailing whitespace
+103-merge_sort.c:76: ERROR: trailing whitespace
+103-merge_sort.c:77: ERROR: trailing whitespace
+103-merge_sort.c:78: ERROR: trailing whitespace
+103-merge_sort.c:79: ERROR: trailing whitespace
+103-merge_sort.c:80: ERROR: trailing whitespace
+103-merge_sort.c:81: ERROR: trailing whitespace
+103-merge_sort.c:82: ERROR: trailing whitespace
+103-merge_sort.c:83: ERROR: trailing whitespace
+103-merge_sort.c:84: ERROR: DOS line endings
+103-merge_sort.c:85: ERROR: DOS line endings
+103-merge_sort.c:85: WARNING: please, no spaces at the start of a line
+103-merge_sort.c:86: ERROR: DOS line endings
+103-merge_sort.c:87: ERROR: DOS line endings
+103-merge_sort.c:88: ERROR: DOS line endings
+103-merge_sort.c:89: ERROR: DOS line endings
+103-merge_sort.c:90: ERROR: DOS line endings
+103-merge_sort.c:91: ERROR: DOS line endings
+103-merge_sort.c:92: ERROR: DOS line endings
+103-merge_sort.c:93: ERROR: DOS line endings
+103-merge_sort.c:94: ERROR: DOS line endings
+103-merge_sort.c:95: ERROR: DOS line endings
+103-merge_sort.c:96: ERROR: DOS line endings
+103-merge_sort.c:97: ERROR: DOS line endings
+103-merge_sort.c:98: ERROR: DOS line endings
+103-merge_sort.c:99: ERROR: DOS line endings
+103-merge_sort.c:100: ERROR: DOS line endings
+103-merge_sort.c:101: ERROR: trailing whitespace
+103-merge_sort.c:102: ERROR: trailing whitespace
+103-merge_sort.c:103: ERROR: trailing whitespace
+103-merge_sort.c:104: ERROR: trailing whitespace
+103-merge_sort.c:105: ERROR: trailing whitespace
+103-merge_sort.c:106: ERROR: trailing whitespace
+103-merge_sort.c:107: ERROR: DOS line endings
+103-merge_sort.c:108: ERROR: DOS line endings
+103-merge_sort.c:108: WARNING: please, no spaces at the start of a line
+103-merge_sort.c:109: ERROR: DOS line endings
+103-merge_sort.c:110: ERROR: DOS line endings
+103-merge_sort.c:111: ERROR: DOS line endings
+103-merge_sort.c:112: ERROR: DOS line endings
+103-merge_sort.c:113: ERROR: DOS line endings
+103-merge_sort.c:114: ERROR: DOS line endings
+103-merge_sort.c:115: ERROR: DOS line endings
+103-merge_sort.c:116: ERROR: DOS line endings
+103-merge_sort.c:117: ERROR: DOS line endings
+103-merge_sort.c:118: ERROR: DOS line endings
+total: 118 errors, 4 warnings, 118 lines checked
+_calloc
+merges
+mergesorts
+merge_sort
+
+========== 104-heap_sort.c ==========
+104-heap_sort.c:1: ERROR: DOS line endings
+104-heap_sort.c:2: ERROR: DOS line endings
+104-heap_sort.c:3: ERROR: DOS line endings
+104-heap_sort.c:4: ERROR: trailing whitespace
+104-heap_sort.c:5: ERROR: trailing whitespace
+104-heap_sort.c:6: ERROR: trailing whitespace
+104-heap_sort.c:7: ERROR: trailing whitespace
+104-heap_sort.c:8: ERROR: DOS line endings
+104-heap_sort.c:9: ERROR: DOS line endings
+104-heap_sort.c:9: WARNING: please, no spaces at the start of a line
+104-heap_sort.c:10: ERROR: DOS line endings
+104-heap_sort.c:11: ERROR: DOS line endings
+104-heap_sort.c:12: ERROR: DOS line endings
+104-heap_sort.c:13: ERROR: DOS line endings
+104-heap_sort.c:14: ERROR: DOS line endings
+104-heap_sort.c:15: ERROR: DOS line endings
+104-heap_sort.c:16: ERROR: DOS line endings
+104-heap_sort.c:17: ERROR: DOS line endings
+104-heap_sort.c:18: ERROR: trailing whitespace
+104-heap_sort.c:19: ERROR: trailing whitespace
+104-heap_sort.c:20: ERROR: trailing whitespace
+104-heap_sort.c:21: ERROR: trailing whitespace
+104-heap_sort.c:22: ERROR: trailing whitespace
+104-heap_sort.c:23: ERROR: trailing whitespace
+104-heap_sort.c:24: ERROR: trailing whitespace
+104-heap_sort.c:25: ERROR: trailing whitespace
+104-heap_sort.c:26: ERROR: DOS line endings
+104-heap_sort.c:27: ERROR: DOS line endings
+104-heap_sort.c:27: WARNING: please, no spaces at the start of a line
+104-heap_sort.c:28: ERROR: DOS line endings
+104-heap_sort.c:29: ERROR: DOS line endings
+104-heap_sort.c:30: ERROR: DOS line endings
+104-heap_sort.c:31: ERROR: DOS line endings
+104-heap_sort.c:32: ERROR: DOS line endings
+104-heap_sort.c:33: ERROR: DOS line endings
+104-heap_sort.c:34: ERROR: DOS line endings
+104-heap_sort.c:35: ERROR: DOS line endings
+104-heap_sort.c:36: ERROR: DOS line endings
+104-heap_sort.c:37: ERROR: DOS line endings
+104-heap_sort.c:38: ERROR: trailing whitespace
+104-heap_sort.c:39: ERROR: trailing whitespace
+104-heap_sort.c:40: ERROR: trailing whitespace
+104-heap_sort.c:41: ERROR: DOS line endings
+104-heap_sort.c:42: ERROR: DOS line endings
+104-heap_sort.c:43: ERROR: DOS line endings
+104-heap_sort.c:44: ERROR: DOS line endings
+104-heap_sort.c:45: ERROR: DOS line endings
+104-heap_sort.c:46: ERROR: DOS line endings
+104-heap_sort.c:47: ERROR: DOS line endings
+104-heap_sort.c:48: ERROR: DOS line endings
+104-heap_sort.c:49: ERROR: DOS line endings
+104-heap_sort.c:50: ERROR: DOS line endings
+104-heap_sort.c:51: ERROR: DOS line endings
+104-heap_sort.c:52: ERROR: DOS line endings
+104-heap_sort.c:53: ERROR: DOS line endings
+104-heap_sort.c:54: ERROR: trailing whitespace
+104-heap_sort.c:55: ERROR: trailing whitespace
+104-heap_sort.c:56: ERROR: trailing whitespace
+104-heap_sort.c:57: ERROR: trailing whitespace
+104-heap_sort.c:58: ERROR: DOS line endings
+104-heap_sort.c:59: ERROR: DOS line endings
+104-heap_sort.c:59: WARNING: please, no spaces at the start of a line
+104-heap_sort.c:60: ERROR: DOS line endings
+104-heap_sort.c:61: ERROR: DOS line endings
+104-heap_sort.c:62: ERROR: DOS line endings
+104-heap_sort.c:63: ERROR: trailing whitespace
+104-heap_sort.c:64: ERROR: trailing whitespace
+104-heap_sort.c:65: ERROR: trailing whitespace
+104-heap_sort.c:66: ERROR: DOS line endings
+104-heap_sort.c:67: ERROR: DOS line endings
+104-heap_sort.c:68: ERROR: DOS line endings
+104-heap_sort.c:69: ERROR: DOS line endings
+104-heap_sort.c:70: ERROR: DOS line endings
+104-heap_sort.c:71: ERROR: DOS line endings
+104-heap_sort.c:72: ERROR: DOS line endings
+104-heap_sort.c:73: ERROR: trailing whitespace
+104-heap_sort.c:74: ERROR: trailing whitespace
+104-heap_sort.c:75: ERROR: trailing whitespace
+104-heap_sort.c:76: ERROR: DOS line endings
+104-heap_sort.c:77: ERROR: DOS line endings
+104-heap_sort.c:78: ERROR: DOS line endings
+104-heap_sort.c:79: ERROR: trailing whitespace
+104-heap_sort.c:80: ERROR: trailing whitespace
+104-heap_sort.c:81: ERROR: trailing whitespace
+104-heap_sort.c:82: ERROR: trailing whitespace
+104-heap_sort.c:83: ERROR: DOS line endings
+104-heap_sort.c:84: ERROR: DOS line endings
+104-heap_sort.c:85: ERROR: DOS line endings
+104-heap_sort.c:86: ERROR: DOS line endings
+104-heap_sort.c:87: ERROR: DOS line endings
+104-heap_sort.c:88: ERROR: DOS line endings
+104-heap_sort.c:89: ERROR: DOS line endings
+104-heap_sort.c:90: ERROR: DOS line endings
+total: 90 errors, 3 warnings, 90 lines checked
+swaps
+max_Heapify
+heap_sort
+
+========== 104-main.c ==========
+104-main.c:12: WARNING: please, no spaces at the start of a line
+104-main.c:13: WARNING: please, no spaces at the start of a line
+104-main.c:15: WARNING: please, no spaces at the start of a line
+104-main.c:16: WARNING: please, no spaces at the start of a line
+104-main.c:17: WARNING: please, no spaces at the start of a line
+104-main.c:18: WARNING: please, no spaces at the start of a line
+104-main.c:19: WARNING: please, no spaces at the start of a line
+104-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 22 lines checked
+main
+
+========== 105-main.c ==========
+105-main.c:12: WARNING: please, no spaces at the start of a line
+105-main.c:13: WARNING: please, no spaces at the start of a line
+105-main.c:15: WARNING: please, no spaces at the start of a line
+105-main.c:16: WARNING: please, no spaces at the start of a line
+105-main.c:17: WARNING: please, no spaces at the start of a line
+105-main.c:18: WARNING: please, no spaces at the start of a line
+105-main.c:19: WARNING: please, no spaces at the start of a line
+105-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 22 lines checked
+main
+
+========== 105-radix_sort.c ==========
+105-radix_sort.c:1: ERROR: DOS line endings
+105-radix_sort.c:2: ERROR: DOS line endings
+105-radix_sort.c:3: ERROR: trailing whitespace
+105-radix_sort.c:4: ERROR: trailing whitespace
+105-radix_sort.c:5: ERROR: trailing whitespace
+105-radix_sort.c:6: ERROR: trailing whitespace
+105-radix_sort.c:7: ERROR: trailing whitespace
+105-radix_sort.c:8: ERROR: DOS line endings
+105-radix_sort.c:9: ERROR: DOS line endings
+105-radix_sort.c:10: ERROR: DOS line endings
+105-radix_sort.c:11: ERROR: DOS line endings
+105-radix_sort.c:12: ERROR: DOS line endings
+105-radix_sort.c:13: ERROR: DOS line endings
+105-radix_sort.c:14: ERROR: DOS line endings
+105-radix_sort.c:15: ERROR: DOS line endings
+105-radix_sort.c:16: ERROR: DOS line endings
+105-radix_sort.c:17: ERROR: DOS line endings
+105-radix_sort.c:18: ERROR: DOS line endings
+105-radix_sort.c:19: ERROR: trailing whitespace
+105-radix_sort.c:20: ERROR: trailing whitespace
+105-radix_sort.c:21: ERROR: trailing whitespace
+105-radix_sort.c:22: ERROR: trailing whitespace
+105-radix_sort.c:23: ERROR: trailing whitespace
+105-radix_sort.c:24: ERROR: trailing whitespace
+105-radix_sort.c:25: ERROR: trailing whitespace
+105-radix_sort.c:26: ERROR: DOS line endings
+105-radix_sort.c:27: ERROR: DOS line endings
+105-radix_sort.c:28: ERROR: DOS line endings
+105-radix_sort.c:29: ERROR: DOS line endings
+105-radix_sort.c:30: ERROR: DOS line endings
+105-radix_sort.c:31: ERROR: DOS line endings
+105-radix_sort.c:32: ERROR: DOS line endings
+105-radix_sort.c:33: ERROR: DOS line endings
+105-radix_sort.c:34: ERROR: DOS line endings
+105-radix_sort.c:35: ERROR: DOS line endings
+105-radix_sort.c:36: ERROR: trailing whitespace
+105-radix_sort.c:37: ERROR: trailing whitespace
+105-radix_sort.c:38: ERROR: trailing whitespace
+105-radix_sort.c:39: ERROR: DOS line endings
+105-radix_sort.c:40: ERROR: DOS line endings
+105-radix_sort.c:41: ERROR: DOS line endings
+105-radix_sort.c:42: ERROR: DOS line endings
+105-radix_sort.c:43: ERROR: DOS line endings
+105-radix_sort.c:44: ERROR: DOS line endings
+105-radix_sort.c:45: ERROR: DOS line endings
+105-radix_sort.c:46: ERROR: DOS line endings
+105-radix_sort.c:47: ERROR: DOS line endings
+105-radix_sort.c:48: ERROR: DOS line endings
+105-radix_sort.c:49: ERROR: DOS line endings
+105-radix_sort.c:50: ERROR: trailing whitespace
+105-radix_sort.c:51: ERROR: trailing whitespace
+105-radix_sort.c:52: ERROR: trailing whitespace
+105-radix_sort.c:53: ERROR: DOS line endings
+105-radix_sort.c:54: ERROR: DOS line endings
+105-radix_sort.c:55: ERROR: DOS line endings
+105-radix_sort.c:56: ERROR: DOS line endings
+105-radix_sort.c:57: ERROR: DOS line endings
+105-radix_sort.c:58: ERROR: DOS line endings
+105-radix_sort.c:59: ERROR: trailing whitespace
+105-radix_sort.c:60: ERROR: trailing whitespace
+105-radix_sort.c:61: ERROR: trailing whitespace
+105-radix_sort.c:62: ERROR: trailing whitespace
+105-radix_sort.c:63: ERROR: trailing whitespace
+105-radix_sort.c:64: ERROR: DOS line endings
+105-radix_sort.c:65: ERROR: DOS line endings
+105-radix_sort.c:66: ERROR: DOS line endings
+105-radix_sort.c:67: ERROR: DOS line endings
+105-radix_sort.c:68: ERROR: DOS line endings
+105-radix_sort.c:69: ERROR: DOS line endings
+105-radix_sort.c:70: ERROR: DOS line endings
+105-radix_sort.c:71: ERROR: DOS line endings
+105-radix_sort.c:72: ERROR: DOS line endings
+105-radix_sort.c:73: ERROR: DOS line endings
+105-radix_sort.c:74: ERROR: DOS line endings
+105-radix_sort.c:75: ERROR: DOS line endings
+105-radix_sort.c:76: ERROR: DOS line endings
+105-radix_sort.c:77: ERROR: DOS line endings
+105-radix_sort.c:78: ERROR: DOS line endings
+105-radix_sort.c:79: ERROR: trailing whitespace
+105-radix_sort.c:80: ERROR: trailing whitespace
+105-radix_sort.c:81: ERROR: trailing whitespace
+105-radix_sort.c:82: ERROR: trailing whitespace
+105-radix_sort.c:83: ERROR: DOS line endings
+105-radix_sort.c:84: ERROR: DOS line endings
+105-radix_sort.c:85: ERROR: DOS line endings
+105-radix_sort.c:86: ERROR: DOS line endings
+105-radix_sort.c:87: ERROR: DOS line endings
+105-radix_sort.c:88: ERROR: DOS line endings
+105-radix_sort.c:89: ERROR: DOS line endings
+105-radix_sort.c:90: ERROR: DOS line endings
+total: 90 errors, 0 warnings, 90 lines checked
+get_Max
+count_sorts
+radix_sort
+
+========== 106-bitonic_sort.c ==========
+106-bitonic_sort.c:1: ERROR: DOS line endings
+106-bitonic_sort.c:2: ERROR: DOS line endings
+106-bitonic_sort.c:3: ERROR: DOS line endings
+106-bitonic_sort.c:4: ERROR: trailing whitespace
+106-bitonic_sort.c:5: ERROR: trailing whitespace
+106-bitonic_sort.c:6: ERROR: trailing whitespace
+106-bitonic_sort.c:7: ERROR: trailing whitespace
+106-bitonic_sort.c:8: ERROR: trailing whitespace
+106-bitonic_sort.c:9: ERROR: trailing whitespace
+106-bitonic_sort.c:10: ERROR: DOS line endings
+106-bitonic_sort.c:11: ERROR: DOS line endings
+106-bitonic_sort.c:11: WARNING: please, no spaces at the start of a line
+106-bitonic_sort.c:12: ERROR: DOS line endings
+106-bitonic_sort.c:13: ERROR: DOS line endings
+106-bitonic_sort.c:14: ERROR: DOS line endings
+106-bitonic_sort.c:15: ERROR: DOS line endings
+106-bitonic_sort.c:16: ERROR: DOS line endings
+106-bitonic_sort.c:17: ERROR: DOS line endings
+106-bitonic_sort.c:18: ERROR: DOS line endings
+106-bitonic_sort.c:19: ERROR: DOS line endings
+106-bitonic_sort.c:20: ERROR: DOS line endings
+106-bitonic_sort.c:21: ERROR: DOS line endings
+106-bitonic_sort.c:22: ERROR: DOS line endings
+106-bitonic_sort.c:23: ERROR: DOS line endings
+106-bitonic_sort.c:24: ERROR: trailing whitespace
+106-bitonic_sort.c:25: ERROR: trailing whitespace
+106-bitonic_sort.c:26: ERROR: trailing whitespace
+106-bitonic_sort.c:27: ERROR: trailing whitespace
+106-bitonic_sort.c:28: ERROR: trailing whitespace
+106-bitonic_sort.c:29: ERROR: trailing whitespace
+106-bitonic_sort.c:30: ERROR: DOS line endings
+106-bitonic_sort.c:31: ERROR: DOS line endings
+106-bitonic_sort.c:31: WARNING: please, no spaces at the start of a line
+106-bitonic_sort.c:32: ERROR: DOS line endings
+106-bitonic_sort.c:33: ERROR: DOS line endings
+106-bitonic_sort.c:34: ERROR: DOS line endings
+106-bitonic_sort.c:35: ERROR: DOS line endings
+106-bitonic_sort.c:36: ERROR: DOS line endings
+106-bitonic_sort.c:37: ERROR: DOS line endings
+106-bitonic_sort.c:38: ERROR: DOS line endings
+106-bitonic_sort.c:39: ERROR: DOS line endings
+106-bitonic_sort.c:40: ERROR: DOS line endings
+106-bitonic_sort.c:41: ERROR: DOS line endings
+106-bitonic_sort.c:42: ERROR: DOS line endings
+106-bitonic_sort.c:43: ERROR: DOS line endings
+106-bitonic_sort.c:44: ERROR: DOS line endings
+106-bitonic_sort.c:45: ERROR: DOS line endings
+106-bitonic_sort.c:46: ERROR: trailing whitespace
+106-bitonic_sort.c:47: ERROR: trailing whitespace
+106-bitonic_sort.c:48: ERROR: trailing whitespace
+106-bitonic_sort.c:49: ERROR: trailing whitespace
+106-bitonic_sort.c:50: ERROR: trailing whitespace
+106-bitonic_sort.c:51: ERROR: trailing whitespace
+106-bitonic_sort.c:52: ERROR: trailing whitespace
+106-bitonic_sort.c:53: ERROR: DOS line endings
+106-bitonic_sort.c:54: ERROR: DOS line endings
+106-bitonic_sort.c:54: WARNING: please, no spaces at the start of a line
+106-bitonic_sort.c:55: ERROR: DOS line endings
+106-bitonic_sort.c:56: ERROR: DOS line endings
+106-bitonic_sort.c:57: ERROR: DOS line endings
+106-bitonic_sort.c:58: ERROR: DOS line endings
+106-bitonic_sort.c:59: ERROR: DOS line endings
+106-bitonic_sort.c:60: ERROR: DOS line endings
+106-bitonic_sort.c:61: ERROR: DOS line endings
+106-bitonic_sort.c:62: ERROR: DOS line endings
+106-bitonic_sort.c:63: ERROR: DOS line endings
+106-bitonic_sort.c:64: ERROR: DOS line endings
+106-bitonic_sort.c:65: ERROR: DOS line endings
+106-bitonic_sort.c:66: ERROR: DOS line endings
+106-bitonic_sort.c:67: ERROR: DOS line endings
+106-bitonic_sort.c:68: ERROR: DOS line endings
+106-bitonic_sort.c:69: ERROR: DOS line endings
+106-bitonic_sort.c:70: ERROR: DOS line endings
+106-bitonic_sort.c:71: ERROR: DOS line endings
+106-bitonic_sort.c:72: ERROR: DOS line endings
+106-bitonic_sort.c:73: ERROR: DOS line endings
+106-bitonic_sort.c:74: ERROR: DOS line endings
+106-bitonic_sort.c:75: ERROR: DOS line endings
+106-bitonic_sort.c:76: ERROR: DOS line endings
+106-bitonic_sort.c:77: ERROR: DOS line endings
+106-bitonic_sort.c:78: ERROR: DOS line endings
+106-bitonic_sort.c:79: ERROR: DOS line endings
+106-bitonic_sort.c:80: ERROR: DOS line endings
+106-bitonic_sort.c:81: ERROR: DOS line endings
+106-bitonic_sort.c:82: ERROR: DOS line endings
+106-bitonic_sort.c:83: ERROR: DOS line endings
+106-bitonic_sort.c:84: ERROR: DOS line endings
+106-bitonic_sort.c:85: ERROR: DOS line endings
+106-bitonic_sort.c:86: ERROR: DOS line endings
+106-bitonic_sort.c:87: ERROR: DOS line endings
+106-bitonic_sort.c:88: ERROR: trailing whitespace
+106-bitonic_sort.c:89: ERROR: trailing whitespace
+106-bitonic_sort.c:90: ERROR: trailing whitespace
+106-bitonic_sort.c:91: ERROR: trailing whitespace
+106-bitonic_sort.c:92: ERROR: DOS line endings
+106-bitonic_sort.c:93: ERROR: DOS line endings
+106-bitonic_sort.c:93: WARNING: please, no spaces at the start of a line
+106-bitonic_sort.c:94: ERROR: DOS line endings
+106-bitonic_sort.c:95: ERROR: DOS line endings
+106-bitonic_sort.c:96: ERROR: DOS line endings
+106-bitonic_sort.c:97: ERROR: DOS line endings
+106-bitonic_sort.c:98: ERROR: DOS line endings
+106-bitonic_sort.c:99: ERROR: DOS line endings
+106-bitonic_sort.c:100: ERROR: DOS line endings
+106-bitonic_sort.c:101: ERROR: DOS line endings
+106-bitonic_sort.c:102: ERROR: DOS line endings
+total: 102 errors, 4 warnings, 102 lines checked
+swaps
+merges
+bitonicsorts
+bitonic_sort
+
+========== 106-main.c ==========
+106-main.c:12: WARNING: line over 80 characters (85)
+106-main.c:12: WARNING: please, no spaces at the start of a line
+106-main.c:13: WARNING: please, no spaces at the start of a line
+106-main.c:15: WARNING: please, no spaces at the start of a line
+106-main.c:16: WARNING: please, no spaces at the start of a line
+106-main.c:17: WARNING: please, no spaces at the start of a line
+106-main.c:18: WARNING: please, no spaces at the start of a line
+106-main.c:19: WARNING: please, no spaces at the start of a line
+106-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 9 warnings, 22 lines checked
+main
+
+========== 107-main.c ==========
+107-main.c:12: WARNING: please, no spaces at the start of a line
+107-main.c:13: WARNING: please, no spaces at the start of a line
+107-main.c:15: WARNING: please, no spaces at the start of a line
+107-main.c:16: WARNING: please, no spaces at the start of a line
+107-main.c:17: WARNING: please, no spaces at the start of a line
+107-main.c:18: WARNING: please, no spaces at the start of a line
+107-main.c:19: WARNING: please, no spaces at the start of a line
+107-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 21 lines checked
+main
+
+========== 107-quick_sort_hoare.c ==========
+107-quick_sort_hoare.c:1: ERROR: DOS line endings
+107-quick_sort_hoare.c:2: ERROR: DOS line endings
+107-quick_sort_hoare.c:3: ERROR: trailing whitespace
+107-quick_sort_hoare.c:4: ERROR: trailing whitespace
+107-quick_sort_hoare.c:5: ERROR: trailing whitespace
+107-quick_sort_hoare.c:6: ERROR: trailing whitespace
+107-quick_sort_hoare.c:7: ERROR: trailing whitespace
+107-quick_sort_hoare.c:8: ERROR: DOS line endings
+107-quick_sort_hoare.c:9: ERROR: DOS line endings
+107-quick_sort_hoare.c:10: ERROR: DOS line endings
+107-quick_sort_hoare.c:11: ERROR: DOS line endings
+107-quick_sort_hoare.c:12: ERROR: DOS line endings
+107-quick_sort_hoare.c:13: ERROR: DOS line endings
+107-quick_sort_hoare.c:14: ERROR: DOS line endings
+107-quick_sort_hoare.c:15: ERROR: DOS line endings
+107-quick_sort_hoare.c:16: ERROR: DOS line endings
+107-quick_sort_hoare.c:17: ERROR: DOS line endings
+107-quick_sort_hoare.c:18: ERROR: DOS line endings
+107-quick_sort_hoare.c:19: ERROR: trailing whitespace
+107-quick_sort_hoare.c:20: ERROR: trailing whitespace
+107-quick_sort_hoare.c:21: ERROR: trailing whitespace
+107-quick_sort_hoare.c:22: ERROR: trailing whitespace
+107-quick_sort_hoare.c:23: ERROR: trailing whitespace
+107-quick_sort_hoare.c:24: ERROR: trailing whitespace
+107-quick_sort_hoare.c:25: ERROR: trailing whitespace
+107-quick_sort_hoare.c:26: ERROR: DOS line endings
+107-quick_sort_hoare.c:27: ERROR: DOS line endings
+107-quick_sort_hoare.c:27: WARNING: please, no spaces at the start of a line
+107-quick_sort_hoare.c:28: ERROR: DOS line endings
+107-quick_sort_hoare.c:29: ERROR: DOS line endings
+107-quick_sort_hoare.c:30: ERROR: DOS line endings
+107-quick_sort_hoare.c:31: ERROR: DOS line endings
+107-quick_sort_hoare.c:32: ERROR: DOS line endings
+107-quick_sort_hoare.c:33: ERROR: DOS line endings
+107-quick_sort_hoare.c:34: ERROR: DOS line endings
+107-quick_sort_hoare.c:35: ERROR: DOS line endings
+107-quick_sort_hoare.c:36: ERROR: DOS line endings
+107-quick_sort_hoare.c:37: ERROR: DOS line endings
+107-quick_sort_hoare.c:38: ERROR: DOS line endings
+107-quick_sort_hoare.c:39: ERROR: DOS line endings
+107-quick_sort_hoare.c:40: ERROR: DOS line endings
+107-quick_sort_hoare.c:41: ERROR: DOS line endings
+107-quick_sort_hoare.c:42: ERROR: DOS line endings
+107-quick_sort_hoare.c:43: ERROR: DOS line endings
+107-quick_sort_hoare.c:44: ERROR: DOS line endings
+107-quick_sort_hoare.c:45: ERROR: DOS line endings
+107-quick_sort_hoare.c:46: ERROR: DOS line endings
+107-quick_sort_hoare.c:47: ERROR: DOS line endings
+107-quick_sort_hoare.c:48: ERROR: DOS line endings
+107-quick_sort_hoare.c:49: ERROR: trailing whitespace
+107-quick_sort_hoare.c:50: ERROR: trailing whitespace
+107-quick_sort_hoare.c:51: ERROR: trailing whitespace
+107-quick_sort_hoare.c:52: ERROR: trailing whitespace
+107-quick_sort_hoare.c:53: ERROR: trailing whitespace
+107-quick_sort_hoare.c:54: ERROR: trailing whitespace
+107-quick_sort_hoare.c:55: ERROR: DOS line endings
+107-quick_sort_hoare.c:56: ERROR: DOS line endings
+107-quick_sort_hoare.c:56: WARNING: please, no spaces at the start of a line
+107-quick_sort_hoare.c:57: ERROR: DOS line endings
+107-quick_sort_hoare.c:58: ERROR: DOS line endings
+107-quick_sort_hoare.c:59: ERROR: DOS line endings
+107-quick_sort_hoare.c:60: ERROR: DOS line endings
+107-quick_sort_hoare.c:61: ERROR: DOS line endings
+107-quick_sort_hoare.c:62: ERROR: DOS line endings
+107-quick_sort_hoare.c:63: ERROR: DOS line endings
+107-quick_sort_hoare.c:64: ERROR: DOS line endings
+107-quick_sort_hoare.c:65: ERROR: DOS line endings
+107-quick_sort_hoare.c:66: ERROR: DOS line endings
+107-quick_sort_hoare.c:67: ERROR: DOS line endings
+107-quick_sort_hoare.c:68: ERROR: DOS line endings
+107-quick_sort_hoare.c:69: ERROR: trailing whitespace
+107-quick_sort_hoare.c:70: ERROR: trailing whitespace
+107-quick_sort_hoare.c:71: ERROR: trailing whitespace
+107-quick_sort_hoare.c:72: ERROR: trailing whitespace
+107-quick_sort_hoare.c:73: ERROR: DOS line endings
+107-quick_sort_hoare.c:74: ERROR: DOS line endings
+107-quick_sort_hoare.c:74: WARNING: please, no spaces at the start of a line
+107-quick_sort_hoare.c:75: ERROR: DOS line endings
+107-quick_sort_hoare.c:76: ERROR: DOS line endings
+107-quick_sort_hoare.c:77: ERROR: DOS line endings
+107-quick_sort_hoare.c:78: ERROR: DOS line endings
+107-quick_sort_hoare.c:79: ERROR: DOS line endings
+107-quick_sort_hoare.c:80: ERROR: DOS line endings
+total: 80 errors, 3 warnings, 80 lines checked
+swaps
+hoare_partitions
+qs
+quick_sort_hoare
+
+========== 1-insertion_sort_list.c ==========
+insertion_sort_list
+swap_nodes
+
+========== 1-main.c ==========
+1-main.c:15: WARNING: please, no spaces at the start of a line
+1-main.c:16: WARNING: please, no spaces at the start of a line
+1-main.c:17: WARNING: please, no spaces at the start of a line
+1-main.c:19: WARNING: please, no spaces at the start of a line
+1-main.c:20: WARNING: please, no spaces at the start of a line
+1-main.c:21: WARNING: please, no spaces at the start of a line
+1-main.c:22: ERROR: code indent should use tabs where possible
+1-main.c:22: WARNING: please, no spaces at the start of a line
+1-main.c:23: ERROR: code indent should use tabs where possible
+1-main.c:23: WARNING: please, no spaces at the start of a line
+1-main.c:23: WARNING: suspect code indent for conditional statements (8, 12)
+1-main.c:24: ERROR: code indent should use tabs where possible
+1-main.c:24: WARNING: please, no spaces at the start of a line
+1-main.c:25: ERROR: code indent should use tabs where possible
+1-main.c:25: WARNING: please, no spaces at the start of a line
+1-main.c:26: ERROR: code indent should use tabs where possible
+1-main.c:26: WARNING: please, no spaces at the start of a line
+1-main.c:27: ERROR: code indent should use tabs where possible
+1-main.c:27: WARNING: please, no spaces at the start of a line
+1-main.c:28: ERROR: code indent should use tabs where possible
+1-main.c:28: WARNING: please, no spaces at the start of a line
+1-main.c:29: ERROR: code indent should use tabs where possible
+1-main.c:29: WARNING: please, no spaces at the start of a line
+1-main.c:30: ERROR: code indent should use tabs where possible
+1-main.c:30: WARNING: please, no spaces at the start of a line
+1-main.c:30: WARNING: suspect code indent for conditional statements (8, 12)
+1-main.c:31: ERROR: code indent should use tabs where possible
+1-main.c:31: WARNING: please, no spaces at the start of a line
+1-main.c:32: WARNING: please, no spaces at the start of a line
+1-main.c:33: WARNING: please, no spaces at the start of a line
+1-main.c:43: WARNING: please, no spaces at the start of a line
+1-main.c:44: WARNING: please, no spaces at the start of a line
+1-main.c:45: WARNING: please, no spaces at the start of a line
+1-main.c:47: WARNING: please, no spaces at the start of a line
+1-main.c:48: WARNING: please, no spaces at the start of a line
+1-main.c:49: ERROR: code indent should use tabs where possible
+1-main.c:49: WARNING: please, no spaces at the start of a line
+1-main.c:50: WARNING: please, no spaces at the start of a line
+1-main.c:51: WARNING: please, no spaces at the start of a line
+1-main.c:52: WARNING: please, no spaces at the start of a line
+1-main.c:53: WARNING: please, no spaces at the start of a line
+1-main.c:54: WARNING: please, no spaces at the start of a line
+1-main.c:55: WARNING: please, no spaces at the start of a line
+total: 11 errors, 32 warnings, 56 lines checked
+create_listint
+main
+
+========== 2-main.c ==========
+2-main.c:12: WARNING: please, no spaces at the start of a line
+2-main.c:13: WARNING: please, no spaces at the start of a line
+2-main.c:15: WARNING: please, no spaces at the start of a line
+2-main.c:16: WARNING: please, no spaces at the start of a line
+2-main.c:17: WARNING: please, no spaces at the start of a line
+2-main.c:18: WARNING: please, no spaces at the start of a line
+2-main.c:19: WARNING: please, no spaces at the start of a line
+2-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 22 lines checked
+main
+
+========== 2-selection_sort.c ==========
+2-selection_sort.c:1: ERROR: DOS line endings
+2-selection_sort.c:2: ERROR: trailing whitespace
+2-selection_sort.c:3: ERROR: trailing whitespace
+2-selection_sort.c:4: ERROR: trailing whitespace
+2-selection_sort.c:5: ERROR: trailing whitespace
+2-selection_sort.c:6: ERROR: trailing whitespace
+2-selection_sort.c:7: ERROR: DOS line endings
+2-selection_sort.c:8: ERROR: DOS line endings
+2-selection_sort.c:9: ERROR: DOS line endings
+2-selection_sort.c:10: ERROR: DOS line endings
+2-selection_sort.c:11: ERROR: DOS line endings
+2-selection_sort.c:12: ERROR: DOS line endings
+2-selection_sort.c:13: ERROR: DOS line endings
+2-selection_sort.c:14: ERROR: DOS line endings
+2-selection_sort.c:15: ERROR: DOS line endings
+2-selection_sort.c:16: ERROR: DOS line endings
+2-selection_sort.c:17: ERROR: DOS line endings
+2-selection_sort.c:18: ERROR: DOS line endings
+2-selection_sort.c:19: ERROR: DOS line endings
+2-selection_sort.c:20: ERROR: DOS line endings
+2-selection_sort.c:21: ERROR: DOS line endings
+2-selection_sort.c:22: ERROR: DOS line endings
+2-selection_sort.c:23: ERROR: DOS line endings
+2-selection_sort.c:24: ERROR: DOS line endings
+2-selection_sort.c:25: ERROR: DOS line endings
+2-selection_sort.c:26: ERROR: DOS line endings
+2-selection_sort.c:27: ERROR: DOS line endings
+2-selection_sort.c:28: ERROR: DOS line endings
+2-selection_sort.c:29: ERROR: DOS line endings
+2-selection_sort.c:30: ERROR: DOS line endings
+2-selection_sort.c:31: ERROR: DOS line endings
+2-selection_sort.c:32: ERROR: DOS line endings
+2-selection_sort.c:33: ERROR: DOS line endings
+total: 33 errors, 0 warnings, 33 lines checked
+selection_sort
+
+========== 3-main.c ==========
+3-main.c:12: WARNING: please, no spaces at the start of a line
+3-main.c:13: WARNING: please, no spaces at the start of a line
+3-main.c:15: WARNING: please, no spaces at the start of a line
+3-main.c:16: WARNING: please, no spaces at the start of a line
+3-main.c:17: WARNING: please, no spaces at the start of a line
+3-main.c:18: WARNING: please, no spaces at the start of a line
+3-main.c:19: WARNING: please, no spaces at the start of a line
+3-main.c:20: WARNING: please, no spaces at the start of a line
+total: 0 errors, 8 warnings, 22 lines checked
+main
+
+========== 3-quick_sort.c ==========
+swaps
+lomuto_partitions
+qs
+quick_sort
+
+========== print_array.c ==========
+print_array
+
+========== print_list.c ==========
+print_list
