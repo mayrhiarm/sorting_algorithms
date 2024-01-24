@@ -35,7 +35,7 @@ void shell_sorts(int *array, size_t size)
 			for (index = i; index >= gap &&
 			 (array[index] < array[index - gap]); index -= gap)
 				swaps(array, index, index - gap);
-		print_arrays(array, size);
+		print_array(array, size);
 		gap /= 3;
 	}
 }

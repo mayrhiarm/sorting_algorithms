@@ -65,11 +65,11 @@ void merges(int *arr, int *tmp, int start, int mid, int end)
 		arr[i] = array_right[right], right++, i++;
 	printf("Merging...\n");
 	printf("[left]: ");
-	print_arrays(array_left, left);
+	print_array(array_left, left);
 	printf("[right]: ");
-	print_arrays(array_right, right);
+	print_array(array_right, right);
 	printf("[Done]: ");
-	print_arrays(&arr[start], left + right);
+	print_array(&arr[start], left + right);
 }
 
 /**

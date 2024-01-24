@@ -42,7 +42,7 @@ int hoare_partitions(int *array, int first, int last, int size)
 		if (current >= finder)
 			return (current);
 		swaps(array, current, finder);
-		print_arrays(array, size);
+		print_array(array, size);
 	}
 }
 

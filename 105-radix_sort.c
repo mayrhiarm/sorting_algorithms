@@ -84,7 +84,7 @@ void radix_sorts(int *array, size_t size)
 	for (exp = 1; maximum / exp > 0; exp *= 10)
 	{
 		count_sorts(array, size, exp, output);
-		print_arrays(array, size);
+		print_array(array, size);
 	}
 	free(output);
 }

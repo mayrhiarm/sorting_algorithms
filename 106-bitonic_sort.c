@@ -61,12 +61,12 @@ void bitonicsorts(int arr[], int low, int nelemnt, int order, int size)
 		if (order >= 1)
 		{
 			printf("Merging [%i/%i] (UP):\n", nelemnt, size);
-			print_arrays(&arr[low], nelemnt);
+			print_array(&arr[low], nelemnt);
 		}
 		else
 		{
 			printf("Merging [%i/%i] (DOWN):\n", nelemnt, size);
-			print_arrays(&arr[low], nelemnt);
+			print_array(&arr[low], nelemnt);
 		}
 		mid = nelemnt / 2;
 		bitonicsorts(arr, low, mid, 1, size);
@@ -75,12 +75,12 @@ void bitonicsorts(int arr[], int low, int nelemnt, int order, int size)
 		if (order <= 0)
 		{
 			printf("Result [%i/%i] (DOWN):\n", nelemnt, size);
-			print_arrays(&arr[low], nelemnt);
+			print_array(&arr[low], nelemnt);
 		}
 		if (order >= 1)
 		{
 			printf("Result [%i/%i] (UP):\n", nelemnt, size);
-			print_arrays(&arr[low], nelemnt);
+			print_array(&arr[low], nelemnt);
 		}
 	}
 }

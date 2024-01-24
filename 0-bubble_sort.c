@@ -1,10 +1,10 @@
 #include "sort.h"
 /**
- * bubble_sorts - It sorts array elements from min to max value.
+ * bubble_sort - It sorts array elements from min to max value.
  * @array: array
  * @size: array size
  */
-void bubble_sorts(int *array, size_t size)
+void bubble_sort(int *array, size_t size)
 {
 
 	size_t i, index, tmp = 0;
@@ -19,7 +19,7 @@ void bubble_sorts(int *array, size_t size)
 			tmp = array[index];
 			array[index] = array[index + 1];
 			array[index + 1] = tmp;
-			print_arrays(array, size);
+			print_array(array, size);
 			}
 		}
 }

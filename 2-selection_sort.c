@@ -48,7 +48,7 @@ void counting_sorts(int *array, size_t size)
 	/* get the accumulative values */
 	for (index = 1; index <= maximun; index++)
 		counter[index] += counter[index - 1];
-	print_arrays(counter, maximun + 1);
+	print_array(counter, maximun + 1);
 	/* get the new array sorted */
 	for (i = 0; i < size; ++i)
 	{

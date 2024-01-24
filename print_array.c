@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * print_arrays - Prints an array of integers
+ * print_array - Prints an array of integers
  *
  * @array: The array to be printed
  * @size: Number of elements in @array
  */
-void print_arrays(const int *array, size_t size)
+void print_array(const int *array, size_t size)
 {
 	size_t i;
 

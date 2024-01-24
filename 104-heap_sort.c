@@ -46,7 +46,7 @@ void max_Heapify(int *array, size_t size, int idx, size_t n)
 	if (largest != idx)
 	{
 		swaps(&array[idx], &array[largest]);
-		print_arrays(array, size);
+		print_array(array, size);
 		max_Heapify(array, size, largest, n);
 	}
 }
@@ -82,7 +82,7 @@ void heap_sorts(int *array, size_t size)
 		*size of heap by 1.
 		*/
 		swaps(&array[0], &array[i]);
-		print_arrays(array, size);
+		print_array(array, size);
 
 		/* Finally, heapify the root of tree.*/
 		max_Heapify(array, size, 0, i);
