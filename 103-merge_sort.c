@@ -8,7 +8,7 @@
  *Return: pointer to memory assignement
  */
  
-void *__calloc(unsigned int nmemb, unsigned int size)
+void *_calloc(unsigned int nmemb, unsigned int size)
 {
 	unsigned int i = 0;
 	char *p;
@@ -16,7 +16,7 @@ void *__calloc(unsigned int nmemb, unsigned int size)
 	if (nmemb == 0 || size == 0)
 		return ('\0');
 	p = malloc(nmemb * size);
-	if (p == '\0')
+	if (p == NULL)
 		return ('\0');
 	for (i = 0; i < (nmemb * size); i++)
 		p[i] = '\0';
@@ -99,14 +99,14 @@ void mergesorts(int *array, int *tmp, int start, int end)
 }
 
 /**
- *merge_sorts - function that sorts an array of integers
+ *merge_sort - function that sorts an array of integers
  *in ascending order using the Merge sort algorithm
  *@size: size of the list
  *@array: array of integers
  *Return: void
  */
  
-void merge_sorts(int *array, size_t size)
+void merge_sort(int *array, size_t size)
 {
 	int *tmp;
 
