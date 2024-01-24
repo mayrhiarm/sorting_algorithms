@@ -52,19 +52,19 @@ void max_Heapify(int *array, size_t size, int idx, size_t n)
 }
 
 /**
- * heap_sorts -  The main function to sort an array of given size
+ * heap_sort -  The main function to sort an array of given size
  * @array: array to sort
  * @size: size of the array
  **/
  
-void heap_sorts(int *array, size_t size)
+void heap_sort(int *array, size_t size)
 {
 	int i;
 	/**
 	 * Start from bottommost and rightmost internal mode and heapify all
      * internal modes in bottom up way
 	 */
-	if (array == '\0' || size < 2)
+	if (array == NULL || size < 2)
 		return;
 
 	for (i = (size - 2) / 2; i >= 0; --i)
